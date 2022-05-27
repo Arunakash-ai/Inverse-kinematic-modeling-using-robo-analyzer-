@@ -37,49 +37,39 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
-
-
-
-
-
-
+1. open the roboanalyzer software.
+2. select the robot and its degrees of freedom.
+3. change the values of X and Y wherever necessary.
+4. simulate the model for inverse kinematics.
+5. plot the graph between the joints.
+6. update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
  
- 
- 
- 
- 
- 
- 
+ #### RRP ROBOT:
+<img width="603" alt="rrp 1" src="https://user-images.githubusercontent.com/77089276/170744649-a7497473-1de5-448e-a3b1-a200b26b437e.PNG">
+<img width="834" alt="rrp2" src="https://user-images.githubusercontent.com/77089276/170744683-383c8fb1-81b5-46cd-8209-34496296d9f4.PNG">
+
+
+  #### 3R ROBOT:
+  
+<img width="594" alt="3r1" src="https://user-images.githubusercontent.com/77089276/170743765-5d65684a-e0b6-4aa7-a793-3119dc94f5c1.PNG">
+
+<img width="842" alt="3r2" src="https://user-images.githubusercontent.com/77089276/170743788-7154dce8-e650-4197-8ee5-4d7a1a8001cd.PNG">
+
+
  ### PLOT 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  #### RRP ROBOT:
+  <img width="717" alt="rrp3" src="https://user-images.githubusercontent.com/77089276/170744571-2b071175-35bc-4069-b8e4-eb270bbf53c7.PNG">
+ <img width="214" alt="rrp6" src="https://user-images.githubusercontent.com/77089276/170746800-db66ba09-58bc-4118-9d5d-7bed99d33fec.PNG">
 
  
- 
+  #### 3R ROBOT:
+  <img width="714" alt="3r3" src="https://user-images.githubusercontent.com/77089276/170747341-ba9f158c-93bf-4d69-8f25-0ad0abcc24ff.PNG">
+  <img width="215" alt="3r6" src="https://user-images.githubusercontent.com/77089276/170747394-4b097bac-94ac-402e-80d7-75e1b39c65fd.PNG">
 
 
+### RESULTS :    
 
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given  input end effector position is plotted.
